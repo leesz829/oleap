@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "715495388022",
+    "project_id": "old-leap",
+    "storage_bucket": "old-leap.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715495388022:android:3725e97f9c0f4c2705c057",
+        "android_client_info": {
+          "package_name": "com.appsquad.oleap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaaIcmdiJmyy2UIrQ2EQOBRDM-NssTK4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
